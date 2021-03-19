@@ -1,0 +1,13 @@
+>>> firstName ="Judith"
+>>> lastName ="Nandase"
+>>> country ="Uganda"
+>>> school ="akirachix"
+>>> fees =500000
+>>> payment =300000
+>>> yearOfBirth =1999
+>>> currentYear =2021
+>>> print(f"Hello {firstName} {lastName},welcome to {school.upper()} in {country.upper()}.\nYour fees balance is {fees-payment} and you are {currentYear-yearOfBirth} years old")
+Hello Judith Nandase,welcome to AKIRACHIX in UGANDA.
+Your fees balance is 200000 and you are 22 years old
+>>> 
+
